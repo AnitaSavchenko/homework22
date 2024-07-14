@@ -1,0 +1,31 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-b0x; 
+}
+
+.wrapper {
+    max-width: 1440px;
+    background-color: #838080;
+    margin: 0auto;
+    padding: 20px;
+    text-align: center;
+}
+.playfair-display-title {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+} 
+
+.titillium-web-regulars {
+    font-family: "Titillium Web", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.imgArticle {
+    width: 100%;}
